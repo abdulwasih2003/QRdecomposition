@@ -17,6 +17,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 3.	Obtain the Q matrix   
     ![eqn4](./img/ex1.jpg)
 4.	Construct the upper triangular matrix R
+
+
     ![eqn5](./img/ex2.jpg)
 
 
